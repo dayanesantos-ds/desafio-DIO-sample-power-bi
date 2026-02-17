@@ -18,7 +18,9 @@ Desenvolver um relatório interativo usando a base Sample Financials no Power BI
 ✔️ Relatório organizado e interativo
 
 🔗 Relatório publicado
-👉 Link para visualização online: https://app.powerbi.com/view?r=eyJrIjoiNGMzOWQyZGUtMWI3ZS00NWQ1LWFmNTQtMzIzNGY3MzVkZTM0IiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9
+👉 Link para visualização online:
+
+[Abrir Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGMzOWQyZGUtMWI3ZS00NWQ1LWFmNTQtMzIzNGY3MzVkZTM0IiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
 
 📂 Dataset utilizado: Sample Financials
 https://github.com/julianazanelatto/power_bi_analyst
