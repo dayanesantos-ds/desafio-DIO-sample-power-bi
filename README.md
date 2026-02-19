@@ -4,13 +4,12 @@
 
 Este projeto apresenta um Relatório de Vendas desenvolvido no Power BI, utilizando o dataset sample oficial, com foco na análise de desempenho comercial, custos, descontos e volume de vendas.
 
-O dashboard foi construído com ênfase em interatividade, usabilidade e experiência do usuário, incorporando elementos visuais que facilitam a navegação e a análise dos dados de forma intuitiva.
+O relatório foi construído com ênfase em interatividade, usabilidade e experiência do usuário, incorporando elementos visuais que facilitam a navegação e a análise dos dados de forma intuitiva.
 
 ---
 
-## Prévia do Dashboard
+## Prévia do Relatório
 
-## Visualização do Dashboard (print):  
 
 ![Diagrama do Banco](https://github.com/dayanesantos-ds/Analise-Sample-PowerBI/blob/main/P%C3%A1gina%201-1.png)
 
@@ -18,7 +17,7 @@ O dashboard foi construído com ênfase em interatividade, usabilidade e experi�
 
 ## Link para visualização online:
 
-[Abrir Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGMzOWQyZGUtMWI3ZS00NWQ1LWFmNTQtMzIzNGY3MzVkZTM0IiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
+[Abrir Relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGMzOWQyZGUtMWI3ZS00NWQ1LWFmNTQtMzIzNGY3MzVkZTM0IiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
 
 ---
 
@@ -57,12 +56,19 @@ O objetivo deste projeto é analisar o desempenho de vendas ao longo do tempo, f
 ## Indicadores Analisados (KPIs)
 
 • Total de vendas
+
 • Unidades vendidas
+
 • Total de descontos
+
 • Total de custos
+
 • Vendas por mês
+
 • Vendas por segmento
+
 • Vendas por produto
+
 • Vendas por país
 
 ---
